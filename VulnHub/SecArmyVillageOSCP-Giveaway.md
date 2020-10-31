@@ -795,8 +795,9 @@ Hence we are a root user on this box now.
 
 Thanks for reading.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Flags:
+# Flags:
 
 flag1{fb9e88}
 flag2{624a21}
@@ -809,7 +810,7 @@ flag8{5bcf53}
 flag9{689d3e}
 flag10{33c9661bfd}
 
-#Credentials:
+# Credentials:
 
 uno:luc10r4m0n
 dos:4b3l4rd0fru705
